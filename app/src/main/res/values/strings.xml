@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleAdapter</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="textwiew">TextWiew</string>
+    <string-array name="texts">
+        <item>sometext 1</item>
+        <item>sometext 2</item>
+        <item>sometext 3</item>
+        <item>sometext 4</item>
+        <item>sometext 5</item>
+    </string-array>
+    <array name="checked">
+        <item>1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+        <item>0</item>
+    </array>
+</resources>
